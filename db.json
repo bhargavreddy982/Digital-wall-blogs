@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "FOOD HABITS ",
+      "description": "Good Eating Habits for kids should be taught from a young age. Teaching kids about healthy eating habits can help instill in them the importance of nutrition and maintaining a balanced diet.  As explained by Ameya World School, here are 10 good eating habits that you can teach your kids:\n\n \n\n \n\n1. Eat breakfast daily\n \n\nBreakfast is essential for giving children energy and focus. Getting them to eat breakfast daily is important so they have the energy and nutrition to focus on learning throughout their school day.\n\n \n\n2. Eat lots of fruits and vegetables\n \n\nFruits and vegetables are filled with essential vitamins and minerals that give kids important nutrients for growing up healthy. Encourage your children to eat more fruits and vegetables throughout the day and try different varieties to add variety to their diet.\n\n \n\n3. Eat snacks in moderation\n \n\nSnacks are okay, but it is important to ensure they are healthy, like cut-up fruit or veggies, yogurt, oatmeal muffins, etc. Avoid sugary snacks and processed foods as much as possible.\n\n \n\n4. Drink plenty of water\n \n\nWater helps keep kids hydrated and provides essential minerals for healthy growth and development. Encourage your children to drink lots of water throughout the day instead of sugary drinks like sodas or juices.\n\n \n\n5. Listen to your body’s hunger cues\n \n\nTeach your children to be aware of their body’s hunger cues and eat accordingly. This means eating when they are hungry and stopping when they are full. It’s okay to indulge in treats occasionally, but also important to recognize when it’s time to stop.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/dhkjdlpfx/image/upload/v1692479859/zbmfwpqhuqm1tzzwvmlp.jpg",
+      "date": "2023-08-20",
+      "id": 3,
+      "isBookmarked": true
+    },
+    {
+      "title": "EXCERCISE",
+      "description": "Whether you’re looking for motivation to start exercising, or are interested in changing up your current routine, here are 10 tips for making exercise a daily habit. Staying_active_shoes\n\nPiece your workout together. You don’t need to get all your exercise at one time. Ten minutes morning, noon, and night can give much of the same benefit as 30 minutes all at once.\nExercise with a friend. Finding a workout partner can help keep you on track and motivate you to get out the door.\nKeep it brisk. When you walk, make it brisk, since this may help control weight better than walking at a leisurely pace. What is brisk enough? Walk as though you are meeting someone for lunch and you are a little late.\nMove your feet before you eat. Hit the gym or go for a 20-minute walk with coworkers, and have lunch afterward.\nTry a pedometer. Step-counters (pedometers) are an easy, inexpensive way to motivate yourself to be active. Work up to 10,000 steps per day.\nTurn off the TV, computer, and smart phone. Cutting back on screen time is a great way to curb your “sit time.” Move around instead, by visiting the gym or even cleaning the house.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/dhkjdlpfx/image/upload/v1692479997/pcumueomn4kq2ybzlbd8.png",
+      "date": "2023-08-20",
+      "id": 4,
+      "isBookmarked": false
+    },
+    {
+      "title": "IMPORTANCE OF SPORT",
+      "description": "Sport isn't just a good way to keep children's bodies healthy, but it also has psychological benefits and teaches them important life skills too.\n\nOrganised sport has many psychological and social benefits for children – even more than the physical activity during play. Researchers think this is because children benefit from the social aspects of being in a team, and from the involvement of other children and adults.\n\nHow will my child's development benefit from sport?\nThe benefits of participating in sport go beyond learning new physical skills. Sport helps children develop better ways to cope with the highs and lows of life. When they're playing sport, sometimes they will win, while at other times they will lose. Being a good loser takes maturity and practice. Losing teaches children to overcome disappointment, cope with unpleasant experiences and is an important part of becoming resilient.\n\nPlaying sport helps children learn to control their emotions and channel negative feelings in a healthy way. It also helps children develop patience and understand that it can take a lot of practice to improve their skills. Children can then apply skills like perseverance and resilience in other areas of their life, including in the classroom at school and with other non-sporting hobbies.",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/dhkjdlpfx/image/upload/v1692529112/xymy8qd0lzjubwijncg0.jpg",
+      "date": "2023-08-20",
+      "isBookmarked": false,
+      "id": 5
+    },
+    {
+      "title": "LUCA",
+      "description": "Luca is a 2021 American computer-animated coming-of-age fantasy film produced by Pixar Animation Studios for Walt Disney Pictures. The film was directed by Enrico Casarosa in his feature directorial debut, produced by Andrea Warren and written by Jesse Andrews and Mike Jones from a story by Casarosa, Andrews, and Simon Stephenson. It stars the voices of Jacob Tremblay and Jack Dylan Grazer, with Emma Berman, Saverio Raimondo, Marco Barricelli, Maya Rudolph, Jim Gaffigan, Peter Sohn, Lorenzo Crisci, Marina Massironi, and Sandy Martin in supporting roles. Set on the Italian Riviera, the film centers on Luca Paguro (Tremblay), a young sea monster boy with the ability to assume human form while on land, who explores the town of Portorosso with his new best friends, Alberto Scorfano (Grazer) and Giulia Marcovaldo (Berman), experiencing a life-changing summer adventure.\n\nLuca draws inspiration from Casarosa's childhood in Genoa, Italy; several Pixar artists were sent to the Italian Riviera gathering research from Italian culture and environment to create Portorosso, the primary setting. The sea monsters, a \"metaphor for feeling different\", were loosely based on old Italian regional myths and folklore.[3][4] As with La Luna (2011), the design and animation were inspired by hand-drawn and stop motion works and Hayao Miyazaki's style. Casarosa described the result as a film that \"pays homage to Federico Fellini and other classic Italian filmmakers, with a dash of Miyazaki in the mix too\".[5] Development on Luca lasted for five years, with production being done remotely during the COVID-19 pandemic. Dan Romer composed the film's musical score.",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/dhkjdlpfx/image/upload/v1692529492/ks2ca4s3rv51mr42i6ru.webp",
+      "date": "2023-08-20",
+      "isBookmarked": false,
+      "id": 6
+    }
+  ]
+}
